@@ -51,5 +51,8 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/harikumar03/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:hariselva03@gmail.com?subject=Hello%20Harikumar,%20From%20Github)
 
-Thanks for stopping by! <br>
-Nandri, Vanakkam 😊
+<p align="center">
+════ ⋆★⋆ ════  <br>
+"Happy Coding👨‍💻"
+</p>
+
