@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ &nbsp;My Tech Stacks / Skills &nbsp;💻
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,git,github,figma&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,ktor,androidstudio,gradle,firebase,sqlite,git,github,githubactions,stackoverflow,figma&theme=dark&perline=7)](https://skillicons.dev)
 <br>
 
 ---
