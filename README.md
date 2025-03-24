@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harikumar</h1>
-<h3 align="center">A passionate Android developer from Bangalore</h3>
+<h1 align="left">Hi, I'm Harikumar 👋</h1>
 
 <!--
 **harikumar03/harikumar03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
