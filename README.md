@@ -5,7 +5,6 @@
 -->
 <h3 align="left">
   <code>Android Engineer | Kotlin Advocate | Building seamless mobile experiences 📱✨</code><br>
-  <code>Open-source enthusiast | Mentor | Breaking down complex problems into clean code</code>
 </h3>
 
 ---
